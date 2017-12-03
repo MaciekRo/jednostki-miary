@@ -35,3 +35,12 @@ html {
     width: 60vw;
     
 }
+
+#vh {
+    width: 60vh;
+}
+#vmin {
+    width: 60vmin;
+}
+#vmax
+    wdith: 60vmax;sss
